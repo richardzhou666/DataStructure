@@ -21,6 +21,6 @@
             * Automatically truncates array size to save memory when usage ratio is low
             
 * ### *Proj1B:  Applying and Testing Data Structures*
-		* This project implements a palindrome tester using the Deque API developed in proj1a
-		* Implements the inheritence property of Java by creating interfaces
-		* Constructed JUnit tests to self test results
+	* This project implements a palindrome tester using the Deque API developed in proj1a
+	* Implements the inheritence property of Java by creating interfaces
+	* Constructed JUnit tests to self test results
